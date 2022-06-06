@@ -6,4 +6,4 @@ Electronic Appliance Store with angular and jason.db (fake data base) Hello this
 2. To run db.json cd src/app and after json-server --watch db.json
 3. open new terminal and write ng serve to run the project
 
-https://user-images.githubusercontent.com/88317294/156877932-d61acf0d-1b3e-443e-89ad-b7d7c8f65c92.png
+![156877932-d61acf0d-1b3e-443e-89ad-b7d7c8f65c92](https://user-images.githubusercontent.com/100614036/172216222-9c9b76b0-6506-4b38-a6fb-9e4c339dbeb9.png)
